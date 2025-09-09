@@ -143,11 +143,12 @@
 
     }
 
-  /* Home section */
+      /* Home section */
     .home-row .image-col img {
         width: 200px;
     }
 
+    
     /* Footer section */
 
     .footer-container .footer-logo a {
